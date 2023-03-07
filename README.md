@@ -8,4 +8,4 @@ maimai 創作譜面
 
 | タイトル | 音源URL | 音源ディレイ(ms) |
 | --- | --- | --- |
-| トンデモワンダーズ | https://www.youtube.com/watch?v=dBQg24mx45Y | 2400 |
+| [トンデモワンダーズ](tondemo-wonders/maidata.txt) | https://www.youtube.com/watch?v=dBQg24mx45Y | 2400 |
