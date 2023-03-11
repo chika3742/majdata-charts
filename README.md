@@ -23,3 +23,4 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | タイトル | 音源URL | 音源ディレイ(ms) |
 | --- | --- | --- |
 | [トンデモワンダーズ](tondemo-wonders/maidata.txt) | https://www.youtube.com/watch?v=dBQg24mx45Y | 2400 |
+| [FREEDOM DiVE↓](freedom-dive/maidata.txt) | https://www.youtube.com/watch?v=vz7sJkJydQY | 692 |
