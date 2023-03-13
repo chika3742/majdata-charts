@@ -2,6 +2,13 @@
 
 maimai 創作譜面
 
+## ダウンロード方法 / Download Tutorial
+
+赤丸で囲った部分をクリックするとダウンロードできます。/ Click on the area circled in red to download.
+
+![image](https://user-images.githubusercontent.com/43089218/224856484-8e6b814a-c6a9-49d1-aec0-37a2a1f8bef9.png)
+
+
 ## ffmpegコマンドライン
 
 ### 音源の作成
