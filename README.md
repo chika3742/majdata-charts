@@ -4,15 +4,13 @@ maimai 創作譜面
 
 ## ダウンロード方法 / How to Download
 
-赤丸で囲った部分をクリックするとダウンロードできます。/ Click on the area circled in red to download.
+以下のURLを書き換えるとダウンロードできます。
 
-### PC
+```
+https://next.chikach.net/api/v2/dl-maidata?uri=raw.githubusercontent.com/chika3742/majdata-charts/main/<directory name>/maidata.txt
+```
 
-![image](https://user-images.githubusercontent.com/43089218/224856484-8e6b814a-c6a9-49d1-aec0-37a2a1f8bef9.png)
-
-### SP
-
-![IMG_9137424B64A8-1](https://user-images.githubusercontent.com/43089218/224856972-319160e2-b091-4b68-b868-dbce7574e5e4.jpeg)
+`<directory name>`の部分には、「freedom-dive」のようなディレクトリ名を入れてください。
 
 ## ffmpegコマンドライン
 
