@@ -2,7 +2,7 @@
 
 maimai 創作譜面
 
-## ダウンロード方法 / Download Tutorial
+## ダウンロード方法 / How to Download
 
 赤丸で囲った部分をクリックするとダウンロードできます。/ Click on the area circled in red to download.
 
