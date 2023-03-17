@@ -2,6 +2,16 @@
 
 maimai 創作譜面
 
+## ダウンロード方法 / How to Download
+
+以下のURLを書き換えるとダウンロードできます。
+
+```
+https://next.chikach.net/api/v2/dl-maidata?title=<directory name>
+```
+
+`<directory name>`の部分には、「freedom-dive」のようなディレクトリ名を入れてください。
+
 ## ffmpegコマンドライン
 
 ### 音源の作成
