@@ -32,6 +32,11 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 
 | タイトル | 音源URL | 音源ディレイ(ms) |
 | --- | --- | --- |
-| [トンデモワンダーズ](tondemo-wonders/maidata.txt) | https://www.youtube.com/watch?v=dBQg24mx45Y | 2400 |
-| [FREEDOM DiVE](freedom-dive/maidata.txt) | https://www.youtube.com/watch?v=vz7sJkJydQY | 692 |
+| [トンデモワンダーズ](tondemo-wonders/maidata.txt) | https://youtu.be/dBQg24mx45Y | 2400* |
+| [FREEDOM DiVE](freedom-dive/maidata.txt) | https://youtu.be/vz7sJkJydQY | 692 |
 | [Viyella's Tears](viyellas-tears/maidata.txt) | https://youtu.be/Pm9oqTzsCqk | 2162 |
+| [風花の招待](invitation-of-windblume/maidata.txt) | https://youtu.be/MYqsfjhj3c4 | 2087 |
+| [純白での瞑想](contemplation-in-snow/maidata.txt) | https://youtu.be/BhDT66CcTco | -* |
+| [FLUFFY FLASH](fluffy-flash/maidata.txt) | https://youtu.be/-gl7sZFr9gs | 905 |
+
+\* 独自にカット編集した音源を使用しています。
