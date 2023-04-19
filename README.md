@@ -38,5 +38,8 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [風花の招待](invitation-of-windblume/maidata.txt) | https://youtu.be/MYqsfjhj3c4 | 2087 |
 | [純白での瞑想](contemplation-in-snow/maidata.txt) | https://youtu.be/BhDT66CcTco | -* |
 | [FLUFFY FLASH](fluffy-flash/maidata.txt) | https://youtu.be/-gl7sZFr9gs | 905 |
+| [INTERNET YAMERO](internet-yamero/maidata.txt) | https://youtu.be/Js_-gKm1RYI | -* |
+| [Recollect Lines](recollect-lines/maidata.txt) | - | - |
+| [天空カフェテリア ～Re arranged～](tenkucafeteria-re-arranged/maidata.txt) | https://youtu.be/h4DpKHlO__c | 1180 |
 
 \* 独自にカット編集した音源を使用しています。
