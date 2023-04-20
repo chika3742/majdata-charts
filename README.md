@@ -41,6 +41,6 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [INTERNET YAMERO](internet-yamero/maidata.txt) | https://youtu.be/Js_-gKm1RYI | -* |
 | [Recollect Lines](recollect-lines/maidata.txt) | - | - |
 | [天空カフェテリア ～Re arranged～](tenkucafeteria-re-arranged/maidata.txt) | https://youtu.be/h4DpKHlO__c | 1180* |
-| [なかよし!〇!なかよし!](./nakayoshi-maru-nakayoshi/maidata.txt) | 2551* |
+| [なかよし!〇!なかよし!](./nakayoshi-maru-nakayoshi/maidata.txt) | https://youtu.be/ogj7RZNCOFw | 2551* |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
