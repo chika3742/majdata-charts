@@ -7,7 +7,7 @@ maimai 創作譜面
 以下のURLを書き換えるとダウンロードできます。
 
 ```
-https://next.chikach.net/api/v2/dl-maidata?title=<directory name>
+https://www.chikach.net/api/v2/dl-maidata?title=<directory name>
 ```
 
 `<directory name>`の部分には、「freedom-dive」のようなディレクトリ名を入れてください。
