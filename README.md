@@ -56,6 +56,7 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [New York Back Raise](./new-york-back-raise/maidata.txt)                                   | https://youtu.be/sCxdDPO4zB0 | ?          |
 | [よいまちカンターレ](./yoimachi-cantare/maidata.txt)                                                | https://youtu.be/vTDSUOlLhwg | 764*       |
 | [μ3](./mu-3/maidata.txt)                                                                   | https://youtu.be/cG3MradaVF0 | ?          |
+| [ばんきちゃんは力を開放したくて仕方がない](./banki-chan-ha-chikara-wo-kaihou-sitakute-sikataganai/maidata.txt) | https://youtu.be/qoIy7DkOhdQ | 722*       |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 「?」となっているものは、計算したディレイが不明になってしまったものです。
