@@ -52,6 +52,7 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [\[宴\] 天空カフェテリア](./tenkuucafeteria/maidata.txt)                                            | https://youtu.be/mP6PUA0e3oU | 1228       |
 | [INTERNET YAMERO (Another cut)](./internet-yamero-another-cut/maidata.txt)                 | https://youtu.be/Js_-gKm1RYI | ?*         |
 | [カフェインファイター](./caffeine-fighter/maidata.txt)                                               | https://youtu.be/AnhVis5JcFQ | ?*         |
+| [ULTRA SYNERGY MATRIX](./ultra-synergy-matrix/maidata.txt)                                 | https://youtu.be/MwXdvTf64Is | 1500       |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 「?」となっているものは、計算したディレイが不明になってしまったものです。
