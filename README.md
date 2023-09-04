@@ -45,7 +45,7 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [POTENTIAL](./potential/maidata.txt)                                                       | https://youtu.be/n8QFVPxm3zg | 1990       |
 | [Galaxy Blaster](./galaxy-blaster/maidata.txt)                                             | https://youtu.be/t-VWXPD2jfI | 1887       |
 | [アイドル](./idol/maidata.txt)                                                                 | https://youtu.be/ZRtdQ81jPUQ | 2492*      |
-| [スターダストメドレー](./stardust-medley/maidata.txt)                                                | https://youtu.be/trfjV9iIeJk | 2774       |
+| [スターダストメドレー](./stardust-medley/maidata.txt)                                                | https://youtu.be/trfjV9iIeJk | 1362       |
 | [Third Time UNLucky](./third-time-unlucky/maidata.txt)                                     | https://youtu.be/2hQyktmzl5A | 0          |
 | [人生](./jinsei/maidata.txt)                                                                 | https://youtu.be/wpVa0cnEeIw | 1297       |
 | [ときめきポポロン♪](./tokimeki-poporon/maidata.txt)                                                | https://youtu.be/49vjbjdZaOY | 2893       |
