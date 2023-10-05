@@ -63,6 +63,8 @@ ffmpeg -i .\original.mp4 -vcodec hevc_nvenc -b_ref_mode 0 -an -filter_complex "[
 | [snooze](./snooze/maidata.txt)                                                             | https://youtu.be/_gWn38pnmqI | 1180*      |
 | [アンコール](./encore/maidata.txt)                                                              | https://youtu.be/vcGbefQBvJ4 | ?*         |
 | [ももいろの鍵](./the-peachy-key/maidata.txt)                                                     | https://youtu.be/sAUdWpemfGw | -15* **    |
+| [セカイがカフェになっちゃった!](./the-world-became-a-cafe/maidata.txt)                                   | https://youtu.be/XNpX6adQVmY | 176*       |
+| [勇者](./yuusha/maidata.txt)                                                                 | https://youtu.be/OIBODIPC_8Y | 1628*      |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
