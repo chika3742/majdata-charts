@@ -12,6 +12,12 @@ https://www.chikach.net/api/v2/dl-maidata?title=<directory name>
 
 `<directory name>`の部分には、「freedom-dive」のようなディレクトリ名を入れてください。
 
+詳しくは[Wiki](/chika3742/majdata-charts/wiki/ダウンロード方法)をご参照ください。
+
+## AstroDXへのインポート方法
+
+詳しくは[Wiki](/chika3742/majdata-charts/wiki/AstroDXへのインポート方法)をご参照ください。
+
 ## 利用条件 / Terms of Use
 
 - 本リポジトリにはMITライセンスを付与しております。本リポジトリをフォークした上で自分好みに改変したり、AstroDX等でのプレイ動画を投稿したり、ご自由にお使いください。
