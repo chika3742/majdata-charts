@@ -80,6 +80,7 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [勇者](./yuusha/maidata.txt)                                                                 | https://youtu.be/OIBODIPC_8Y | 1628*      |
 | [Stellar:Dream](./stellar-dream/maidata.txt)                                               | https://youtu.be/dt3p2HtLzDA | 1720       |
 | [チェスマッチカフェチェックオレ](./chess-match-cafe-check-au-lait/maidata.txt)                            | https://youtu.be/OPIso_I33a4 | 1664*      |
+| [ライアーダンサー](./lier-dancer/maidata.txt)                                                      | https://youtu.be/UHbmkxv-874 | ?*         |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
