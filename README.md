@@ -81,9 +81,10 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [Stellar:Dream](./stellar-dream/maidata.txt)                                               | https://youtu.be/dt3p2HtLzDA | 1720       |
 | [チェスマッチカフェチェックオレ](./chess-match-cafe-check-au-lait/maidata.txt)                            | https://youtu.be/OPIso_I33a4 | 1664*      |
 | [ライアーダンサー](./lier-dancer/maidata.txt)                                                      | https://youtu.be/UHbmkxv-874 | ?*         |
+| [人マニア](./human-mania/maidata.txt)                                                          | https://youtu.be/HTxwOxFt5d4 | -830**     |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
-\*\* ディレイ値がマイナスとなっているものについては、その分だけ音源の先頭をカットする必要があります。
+\*\* ディレイ値がマイナスとなっているものについては、その分だけ音源の先頭をカットする必要があります(FFmpegでは`-ss`オプションを用いてカットできます)。
 
 ※「?」となっているものは、計算したディレイが不明になってしまったものです。
