@@ -84,6 +84,7 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [人マニア](./human-mania/maidata.txt)                                                          | https://youtu.be/HTxwOxFt5d4 | -830**     |
 | [And Revive The Melody](./and-revive-the-melody/maidata.txt)                               | https://youtu.be/YPSJ-wnxnRI | -50**      |
 | [\[疑\] Mistempered Malignance](./mistempered-malignance-utage/maidata.txt)                 | - (公式音源なし)                   | ?          |
+| [レイドバックジャーニー](./laid-back-journey/maidata.txt)                                             | https://youtu.be/eMgHOf0rpBQ | 1387       |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
