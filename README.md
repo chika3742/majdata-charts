@@ -86,6 +86,7 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [\[疑\] Mistempered Malignance](./mistempered-malignance-utage/maidata.txt)                 | - (公式音源なし)                   | ?          |
 | [レイドバックジャーニー](./laid-back-journey/maidata.txt)                                             | https://youtu.be/eMgHOf0rpBQ | 1387       |
 | [オーバーライド](./override/maidata.txt)                                                          | https://youtu.be/LLjfal8jCYI | 826        |
+| [IF:U](./if-u/maidata.txt)                                                                 | https://youtu.be/Z1GjdDcwtyc | 0          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
