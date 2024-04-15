@@ -82,8 +82,9 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [チェスマッチカフェチェックオレ](./chess-match-cafe-check-au-lait/maidata.txt)                            | https://youtu.be/OPIso_I33a4 | 1664*      |
 | [ライアーダンサー](./lier-dancer/maidata.txt)                                                      | https://youtu.be/UHbmkxv-874 | ?*         |
 | [人マニア](./human-mania/maidata.txt)                                                          | https://youtu.be/HTxwOxFt5d4 | -830**     |
-| [And Revive The Melody](./and-revive-the-melody/maidata.txt)                               | https://youtu.be/YPSJ-wnxnRI | -50**      |
 | [ne! ne! ne!](./ne-ne-ne/maidata.txt)                                                      | https://youtu.be/ohGzCZ5G3sk | 2724       |
+| [And Revive The Melody](./and-revive-the-melody/maidata.txt)                               | https://youtu.be/YPSJ-wnxnRI | -50**      |
+| [GAME：CHANGER](./game-changer/maidata.txt)                                                 | https://youtu.be/hPKs7vL-Xf4 | 1591       |
 | [\[疑\] Mistempered Malignance](./mistempered-malignance-utage/maidata.txt)                 | - (公式音源なし)                   | ?          |
 | [レイドバックジャーニー](./laid-back-journey/maidata.txt)                                             | https://youtu.be/eMgHOf0rpBQ | 1387       |
 | [オーバーライド](./override/maidata.txt)                                                          | https://youtu.be/LLjfal8jCYI | 826        |
