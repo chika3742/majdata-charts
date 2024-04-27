@@ -89,6 +89,7 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [レイドバックジャーニー](./laid-back-journey/maidata.txt)                                             | https://youtu.be/eMgHOf0rpBQ | 1387       |
 | [オーバーライド](./override/maidata.txt)                                                          | https://youtu.be/LLjfal8jCYI | 826        |
 | [IF:U](./if-u/maidata.txt)                                                                 | https://youtu.be/Z1GjdDcwtyc | 0          |
+| [青春のアーカイブ](./archive-of-youth/maidata.txt)                                                 | https://youtu.be/Q4sWF6z9TuE | 1274       |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
