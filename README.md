@@ -90,7 +90,7 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [オーバーライド](./override/maidata.txt)                                                          | https://youtu.be/LLjfal8jCYI | 826        |
 | [IF:U](./if-u/maidata.txt)                                                                 | https://youtu.be/Z1GjdDcwtyc | 0          |
 | [青春のアーカイブ](./archive-of-youth/maidata.txt)                                                 | https://youtu.be/Q4sWF6z9TuE | 1274       |
-| [Glorious Crown (tpz over-Over-OVERCUTE REMIX)](./glorious-crown-tpzrmx/maidata.txt)       | -                            | ?          |
+| [Glorious Crown (tpz over-Over-OVERCUTE REMIX)](./glorious-crown-tpzrmx/maidata.txt)       | https://youtu.be/HJglGbM0hds | ?          |
 | [Möbius](./möbius/maidata.txt)                                                             | https://youtu.be/2fsZdfixj60 | ?          |
 | [しとしとと](./sitositoto/maidata.txt)                                                          | https://youtu.be/QL7Drg1NPQc | ?          |
 
