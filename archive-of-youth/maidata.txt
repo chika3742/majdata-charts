@@ -1,7 +1,7 @@
 &title=青春のアーカイブ
 &artist=アビドス高等学校対策委員会 (曲: 40mP)
 &first=1.04
-&des=cqっぴー
+&des=cq
 &clock_count=4
 &lv_5=13+
 &inote_5=(226){4},,,,
