@@ -94,7 +94,8 @@ ffmpeg -i .\original.mp4 -vcodec h264 -an -filter_complex "[0]tpad=start_duratio
 | [Möbius](./möbius/maidata.txt)                                                             | https://youtu.be/2fsZdfixj60 | ?          |
 | [しとしとと](./sitositoto/maidata.txt)                                                          | https://youtu.be/QL7Drg1NPQc | ?          |
 | [メズマライザー](./mesmerizer/maidata.txt)                                                        | https://youtu.be/19y8YTbvri8 | -53**      |
-| [シリウスの輝きのように](./as-the-shine-of-sirius/maidata.txt)                                        | https://youtu.be/LMFLssXrPX4 | -1501**    |
+| [シリウスの輝きのように](./as-the-shine-of-sirius/maidata.txt)                                        | https://youtu.be/LMFLssXrPX4 | -1501**    |                                                                                           |                              |            |
+| [ファタール](./fatal/maidata.txt)                                                               | https://youtu.be/8tQiWHXSGN0 | 2737*      |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
