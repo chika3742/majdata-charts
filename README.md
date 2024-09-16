@@ -104,6 +104,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [Baqeela](./baqeela/maidata.txt)                                                           | https://youtu.be/ggllDGhEuxQ *** | 1446       |
 | [1番輝く星](./the-brightest-star/maidata.txt)                                                  | https://youtu.be/WMdXTiLrT2g     | 1428       |
 | [MarbleBlue.](./marbleblue/maidata.txt)                                                    | https://youtu.be/Qb1vJnLrA3I     | ?          |
+| [\[弧\]OMAKENO Stroke](./omakeno-stroke/maidata.txt)                                        | https://youtu.be/4xnZHzcJ-j4 *** | ?          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
