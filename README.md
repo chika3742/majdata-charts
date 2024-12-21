@@ -107,6 +107,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [\[弧\]OMAKENO Stroke](./omakeno-stroke/maidata.txt)                                        | https://youtu.be/4xnZHzcJ-j4 *** | ?          |
 | [I Wanna](./i-wanna/maidata.txt)                                                           | https://youtu.be/e_N_24PrPTU     | 340*       |
 | [Synthesis.](./synthesis/maidata.txt)                                                      | https://youtu.be/dOP7G5J755s     | ?*         |
+| [ラブリージャッジメント](./lovely-judgement/maidata.txt)                                              | https://youtu.be/dfVsdGV4ePc     | 1207       |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
