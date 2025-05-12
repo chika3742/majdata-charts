@@ -110,6 +110,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [ラブリージャッジメント](./lovely-judgement/maidata.txt)                                              | https://youtu.be/dfVsdGV4ePc     | 1207       |
 | [テレパシ](./telepathy/maidata.txt)                                                            | https://youtu.be/AVIo9K-DrcY     | 1581       |
 | [DIE IN](./die-in/maidata.txt)                                                             | https://youtu.be/FF-tQalIIUM     | 2353       |
+| [Fighting My Way](./fighting-my-way/maidata.txt)                                           | ゲーム内音源                           | -          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
