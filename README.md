@@ -112,6 +112,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [DIE IN](./die-in/maidata.txt)                                                             | https://youtu.be/FF-tQalIIUM     | 2353       |
 | [Fighting My Way](./fighting-my-way/maidata.txt)                                           | ゲーム内音源                           | -          |
 | [メクルメ](./mekurume/maidata.txt)                                                             | https://youtu.be/DLkNQgh4Ons     | 2970       |
+| [ツキノカメ](./moon-turtle/maidata.txt)                                                         | ゲーム内音源                           | -          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
