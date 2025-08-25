@@ -116,6 +116,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [夢紡ぎのワンダラー](./夢紡ぎのワンダラー/maidata.txt)                                                       | https://youtu.be/sZVeGywmCu0     | 1156       |
 | [Booo!](./booo/maidata.txt)                                                                | https://youtu.be/PcoWIZVaBNc     | 1082       |
 | [スーパー類](./super-rui/maidata.txt)                                                           | https://youtu.be/owAteX-4kcw     | 1200       |
+| [自己肯定感爆上げ↑↑しゅきしゅきソング](./self-affirmation-explosion-love-love-song/maidata.txt)             | https://youtu.be/WCDLyXJgbIo     | 923        |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
