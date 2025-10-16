@@ -106,7 +106,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [MarbleBlue.](./marbleblue/maidata.txt)                                                    | https://youtu.be/Qb1vJnLrA3I     | ?          |
 | [\[弧\]OMAKENO Stroke](./omakeno-stroke/maidata.txt)                                        | https://youtu.be/4xnZHzcJ-j4 *** | ?          |
 | [I Wanna](./i-wanna/maidata.txt)                                                           | https://youtu.be/e_N_24PrPTU     | 340*       |
-| [Synthesis.](./synthesis/maidata.txt)                                                      | https://youtu.be/dOP7G5J755s     | ?*         |
+| [Synthesis.](./synthesis/maidata.txt)                                                      | https://youtu.be/dOP7G5J755s     | -*         |
 | [ラブリージャッジメント](./lovely-judgement/maidata.txt)                                              | https://youtu.be/dfVsdGV4ePc     | 1207       |
 | [テレパシ](./telepathy/maidata.txt)                                                            | https://youtu.be/AVIo9K-DrcY     | 1581       |
 | [DIE IN](./die-in/maidata.txt)                                                             | https://youtu.be/FF-tQalIIUM     | 2353       |
