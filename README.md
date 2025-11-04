@@ -118,6 +118,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [スーパー類](./super-rui/maidata.txt)                                                           | https://youtu.be/owAteX-4kcw     | 1200       |
 | [自己肯定感爆上げ↑↑しゅきしゅきソング](./self-affirmation-explosion-love-love-song/maidata.txt)             | https://youtu.be/WCDLyXJgbIo     | 923        |
 | [プラシイボ♥バトラー](./placebo-battler/maidata.txt)                                                | https://youtu.be/f1x4WIP-9qg     | 858        |
+| [Haunted Dance](./haunted-dance/maidata.txt)                                               | https://youtu.be/iwvi6gHm73k *** | ?          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
@@ -125,4 +126,4 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 
 \*\*\* 非公式音源です。
 
-※「?」となっているものは、計算したディレイが不明になってしまったものです。
+※「?」となっているものは、計算したディレイが不明になってしまったものです。大方音源を作成してから長期間放置していたものです。
