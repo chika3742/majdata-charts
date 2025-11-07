@@ -119,6 +119,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [自己肯定感爆上げ↑↑しゅきしゅきソング](./self-affirmation-explosion-love-love-song/maidata.txt)             | https://youtu.be/WCDLyXJgbIo     | 923        |
 | [プラシイボ♥バトラー](./placebo-battler/maidata.txt)                                                | https://youtu.be/f1x4WIP-9qg     | 858        |
 | [Haunted Dance](./haunted-dance/maidata.txt)                                               | https://youtu.be/iwvi6gHm73k *** | ?          |
+| [のじゃロリック](./nojalolic/maidata.txt)                                                         | https://youtu.be/Qrsr5wBZNFE     | ?          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
