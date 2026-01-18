@@ -122,6 +122,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [のじゃロリック](./nojalolic/maidata.txt)                                                         | https://youtu.be/Qrsr5wBZNFE     | ?          |
 | [ヤミナベ!!!!](./yaminabe/maidata.txt)                                                         | https://youtu.be/NFT6GMPeYJI     | 1198       |
 | [ひっひっふー](./hihifoo/maidata.txt)                                                            | https://youtu.be/VXUbEH0DvSM     | 2056       |
+| [Superlative](./superlative/maidata.txt)                                                   | https://youtu.be/Ie_btWuTW6M     | -883**     |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
