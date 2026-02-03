@@ -123,6 +123,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [ヤミナベ!!!!](./yaminabe/maidata.txt)                                                         | https://youtu.be/NFT6GMPeYJI     | 1198       |
 | [ひっひっふー](./hihifoo/maidata.txt)                                                            | https://youtu.be/VXUbEH0DvSM     | 2056       |
 | [Superlative](./superlative/maidata.txt)                                                   | https://youtu.be/Ie_btWuTW6M     | -883**     |
+| [Superlative (game size)](./superlative-gamesize/maidata.txt)                              | ゲーム内音源                           | -          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
@@ -131,3 +132,5 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 \*\*\* 非公式音源です。
 
 ※「?」となっているものは、計算したディレイが不明になってしまったものです。大方音源を作成してから長期間放置していたものです。
+
+※「ゲーム内音源」とは、ゲーム「学園アイドルマスター」の「ミュージック」から抽出（キャプチャー）した音源のことです。
