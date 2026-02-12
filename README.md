@@ -124,6 +124,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [ひっひっふー](./hihifoo/maidata.txt)                                                            | https://youtu.be/VXUbEH0DvSM     | 2056       |
 | [Superlative](./superlative/maidata.txt)                                                   | https://youtu.be/Ie_btWuTW6M     | -883**     |
 | [Superlative (game size)](./superlative-gamesize/maidata.txt)                              | ゲーム内音源                           | -          |
+| [みちなるひろがる](./unknown-unbound/maidata.txt)                                                  | ゲーム内音源                           | -          |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
