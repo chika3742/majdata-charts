@@ -125,6 +125,7 @@ ffmpeg -i .\original.mp4 -c:v h264 -an -filter_complex "[0]tpad=start_duration=<
 | [Superlative](./superlative/maidata.txt)                                                   | https://youtu.be/Ie_btWuTW6M     | -883**     |
 | [Superlative (game size)](./superlative-gamesize/maidata.txt)                              | ゲーム内音源                           | -          |
 | [みちなるひろがる](./unknown-unbound/maidata.txt)                                                  | ゲーム内音源                           | -          |
+| [SHIAWASE FOR YOU!](./shiawase-for-you/maidata.txt)                                        | https://youtu.be/D7-lYDOpA50     | 1150*      |
 
 \* 独自にカット編集した音源を使用しています。カット編集は各自で行っていただきますようお願いします。
 
